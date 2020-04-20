@@ -4,7 +4,7 @@ date: "2020-03-10T23:00:00.284Z"
 description: "Wt.ag - Estudo de branding"
 ---
 
-![Brand](./1.jpg)
+![Brand](./1.gif)
 
 ![Posts](./2.jpg)
 
