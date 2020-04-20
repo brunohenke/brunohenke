@@ -21,13 +21,13 @@ const About = () => {
         I am a Brazilian designer, I’ve been living in Dublin and working at Wt.ag. I came to Ireland to improve my English and learn more about design with people from different places.
       </p>
       <p>
-        I’ve been designing for three and a haft years, and I’m really excited about what I do. I don’t believe that just hard work is enough, but if you work hard and love what you do, you can do and be whatever you want.
+        I’ve been designing for three years and a half, and I’m really excited about what I do. I don’t believe that just hard work is enough, but if you work hard and love what you do, you can do and be whatever you want.
       </p>
       <p>
         I like sports and as a good Brazilian guy, I love soccer and I enjoy playing it. I also practice some other kind of sports, like running and American football.
       </p>
       <p>
-        So, if you would like say hi, contact me in <a href={`mailto:${social.email}`}>{social.email}</a>
+        So, if you would like to say hi, contact me in <a href={`mailto:${social.email}`}>{social.email}</a>
       </p>
     </section>
   )
