@@ -6,7 +6,7 @@ description: "Bundesliga App"
 
 ![Capa](./1Capa.jpg)
 
-![Início app](./2Inicio app.jpg)
+![Início app](./2Inicio app.png)
 
 ![Início app](./3.jpg)
 
