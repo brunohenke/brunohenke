@@ -22,5 +22,5 @@ description: "Bundesliga App"
 
 ![Stats team](./8Stats team.jpg)
 
-![part](./9PART 1.jpg)
-![part](./10PART 2.jpg)
+![Stories](./9STORIES.jpg)
+
