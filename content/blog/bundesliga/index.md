@@ -4,7 +4,7 @@ date: "2020-04-10T23:00:00.284Z"
 description: "Bundesliga App"
 ---
 
-![Capa](./1Capa.jpg)
+![Capa](./1Capa.png)
 
 ![Início app](./2Inicio app.png)
 
