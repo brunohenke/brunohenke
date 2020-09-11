@@ -4,7 +4,7 @@ module.exports = {
     author: {
       name: 'Bruno Henke',
     },
-    description: 'Hi, I’m Bruno Henke! I’ve been living in Dublin working as a Visual designer at Wt.ag — BR. Say hi, brunohenkekds@gmail.com',
+    description: 'Hey, I’m Bruno Henke! I’ve been living in Porto Alegre working as a designer at BriviaDez - BR. Say hi, brunohenkekds@gmail.com',
     siteUrl: 'http://brunohenke.com/',
     social: {
       email: 'brunohenkekds@gmail.com',
