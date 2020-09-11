@@ -21,8 +21,8 @@ const Bio = () => {
   return (
     <section className="bio content">
       <p>
-        Hi, I’m {author.name}! <br/>
-        I’ve been living in Dublin working as a Visual designer at Wt.ag — BR. <br/>
+        Hey, I’m {author.name}! <br/>
+        I’ve been living in Porto Alegre working as a designer at BriviaDez - BR. <br/>
         Say hi, <a href={`mailto:${social.email}`}>{social.email}</a>
       </p>
     </section>
