@@ -18,7 +18,7 @@ const About = () => {
   return (
     <section className="about content">
       <p>
-        I am a Brazilian designer, living in Porto Alegre, Brazil and working at BriviaDez.
+        I am a Brazilian designer, living in São Paulo, Brazil and working at Work&Co.
       </p>
       <p>
         I’ve been designing for four years, and I’m really excited about what I do. I don’t believe that just hard work is enough, but if you work hard and love what you do, you can do and be whatever you want.
