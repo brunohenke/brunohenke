@@ -22,7 +22,7 @@ const Bio = () => {
     <section className="bio content">
       <p>
         Hey, I’m {author.name}! <br/>
-        I’ve been living in Porto Alegre working as a designer at BriviaDez - BR. <br/>
+        I’ve been living in São Paulo working as a designer at Work&Co. <br/>
         Say hi, <a href={`mailto:${social.email}`}>{social.email}</a>
       </p>
     </section>
